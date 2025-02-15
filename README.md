@@ -3,9 +3,13 @@
 ### Indice:
 
 1 - Descrição do projeto
+<br>
 2 - Status do Projeto
+<br>
 3 - Tecnologias utilizadas
+<br>
 4 - Pessoas Desenvolvedoras do Projeto
+<br>
 
 ### 1 - Descrição do projeto
 
@@ -20,6 +24,7 @@ Ele foi concluído, porém vai ser atualizada ao decorrer do tempo.
 ### 3 - Tecnologias utilizadas
 
 IDE - Visual Studio Code 2022
+<br>
 Linguagens  - HTML e CSS
 
 
